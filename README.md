@@ -1,6 +1,6 @@
 # The Bank App
 
-For Android % iOS.
+For Android & iOS.
 Using Flutter and Firebase for database.
 
 App: http://bit.ly/ThaBankApp
