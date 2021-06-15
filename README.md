@@ -3,6 +3,7 @@
 For Android & iOS.
 Using Flutter and Firebase for database.
 
-App: http://bit.ly/ThaBankApp
+App Link: http://bit.ly/ThaBankApp
+YouTube Link: https://youtu.be/FPXFvVPflzs
 
 ![Part 1](https://user-images.githubusercontent.com/72062416/121992281-f43c3980-cdbe-11eb-8cd9-b83509203994.jpeg)
