@@ -1,4 +1,4 @@
-# balance
+# The Bank App
 
 A new Flutter project.
 
